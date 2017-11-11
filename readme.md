@@ -16,8 +16,8 @@
 }
 ``
 
-9. create phpunit.xml in the project root
-
+9. create `phpunit.xml` in the project root
+``
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit colors="true">
     <testsuites>
@@ -26,8 +26,8 @@
         </testsuite>
     </testsuites>
 </phpunit>
+``
 
-
-10. create src/Calculator.php #namespace src;
-11. create src/Test/CalculatorTest.php #use src\Calculator;
-12. run with ./vendor/bin/phpunit
+10. create `src/Calculator.php` #namespace src;
+11. create `src/Test/CalculatorTest.php` #use src\Calculator;
+12. run with `./vendor/bin/phpunit`
