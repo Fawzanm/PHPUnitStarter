@@ -17,6 +17,7 @@
 ``
 
 9. create `phpunit.xml` in the project root
+
 ``
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit colors="true">
