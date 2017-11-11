@@ -1,0 +1,19 @@
+{
+    "name": "fawzan/testing",
+    "authors": [
+        {
+            "name": "Mohammed Fawzan",
+            "email": "fawzanm@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "src": ""
+        }
+    }
+
+}
