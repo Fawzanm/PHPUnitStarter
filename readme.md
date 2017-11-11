@@ -1,5 +1,5 @@
-# Note:  this tutorial assumes you are using php 7+ #
-Getting started with phpUnit.
+# Note:  this tutorial assumes you are using php 7+
+## Getting started with phpUnit.
 Step 1 : install composer
 Step 2 : Create a project (calculatorApp)
 Step 3 : composer init inside calculatorApp
