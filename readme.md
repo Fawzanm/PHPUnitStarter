@@ -29,6 +29,6 @@
 </phpunit>
 ```
 
-10. create `src/Calculator.php` #namespace src;
-11. create `src/Test/CalculatorTest.php` #use src\Calculator;
+10. create `src/Calculator.php` make sure to define `namespace src;`
+11. create `src/Test/CalculatorTest.php` make sure to `use src\Calculator;`
 12. run with `./vendor/bin/phpunit`
