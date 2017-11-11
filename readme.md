@@ -8,13 +8,14 @@
 7. create a folder (src/Test) for project test files
 8. add psr autoloading to composer.json for the source code in Step 4
 
-`
+``
 "autoload": {
         "psr-0": {
             "src": ""
         }
 }
-`
+``
+
 9. create phpunit.xml in the project root
 
 <?xml version="1.0" encoding="UTF-8"?>
